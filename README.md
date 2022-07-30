@@ -22,13 +22,13 @@ To jest prosta implementacja klasycznej gry [Breakout](https://en.wikipedia.org/
 Sklonuj [repozytorium](https://github.com/urnotrme/PyGame-Breakout.git), a następnie skorzystaj z polecenia:
 
 ```
-pipenv install
+pip install pygame
 ```
 
 Aby uruchomić grę, napisz:
 
 ```
-pipenv run python breakout.py
+python breakout.py
 ```
 
 # Credits
