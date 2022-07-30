@@ -1,6 +1,7 @@
 # PyGame Breakout
 
 To jest prosta implementacja klasycznej gry [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)). Służy jako gra demonstracyjna na temat budowania gier za pomocą Python 3, PyGame oraz programowania obiektowego:
+
 <img src="images/project.jpg">
 
 # Cechy
