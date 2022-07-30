@@ -33,4 +33,4 @@ python breakout.py
 
 # Credits
 
-Ta gra jest napisana dzięki kursu tworzenia gier za pomocą Pythona 3 i Pygame: (https://habr.com/ru/post/347138/)
+Ta gra jest napisana dzięki kursu tworzenia gier za pomocą Pythona 3 i Pygame: https://habr.com/ru/post/347138/
